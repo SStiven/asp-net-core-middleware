@@ -1,0 +1,6 @@
+@Middleware_HostAddress = http://localhost:5273
+
+POST {{Middleware_HostAddress}}/api/simple
+Accept: application/json
+
+###
